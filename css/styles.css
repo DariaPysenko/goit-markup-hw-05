@@ -569,11 +569,10 @@ a {
 }
 
 .overlay {
-  /* display: flex;
-  justify-content: center; */
+  display: flex;
+
   padding: 63px 24px;
 
-  padding: 30px 20px 30px 20px;
   background-color: rgba(33, 150, 243, 0.9);
 
   overflow: scroll;
@@ -600,7 +599,6 @@ a {
 }
 
 .card-wrapper {
-  /* display: flex; */
   overflow: hidden;
   position: relative;
 }
