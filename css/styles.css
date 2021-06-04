@@ -633,23 +633,23 @@ a {
 .envelope {
   display: inline-block;
   margin-right: 10px;
-  fill: #757575;
+  fill: currentColor;
 }
 
-.mail-link:hover .envelope,
+/* .mail-link:hover .envelope,
 .mail-link:focus .envelope {
   fill: #2196f3;
-}
+} */
 
 .smartphone {
   display: inline-block;
   margin-right: 10px;
-  fill: #757575;
+  fill: currentColor;
 }
-.contact-link:hover .smartphone,
+/* .contact-link:hover .smartphone,
 .contact-link:focus .smartphone {
   fill: #2196f3;
-}
+} */
 .contact-link {
   display: flex;
   align-items: center;
